@@ -11,3 +11,5 @@ echo "0.0.0.0 deviceenrollment.apple.com" >> hosts
 
 echo "0.0.0.0 gdmf.apple.com" >> hosts
 
+profiles status -type enrollment
+
